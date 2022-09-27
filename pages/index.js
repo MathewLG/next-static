@@ -12,7 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Bienvenidos!" />
-        <p className="Esta es la página estática del equipo.">
+        <p className="description">
+          Esta es la página web estática hecha por el equipo:
+          Mathew, Ulises, Paco y Joel. 
         </p>
       </main>
 
